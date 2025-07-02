@@ -1,0 +1,12 @@
+{
+    "todos": [{
+        "id": 0,
+        "checked": false,
+        "text": "do the groceries"
+    },
+    {
+        "id": 1,
+        "checked": true,
+        "text": "watch tv"
+    }]
+}
